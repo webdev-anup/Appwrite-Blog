@@ -2,7 +2,7 @@
 
 A full-stack blog application built with **React**, **Tailwind CSS** and **Appwrite**. Users can sign up, log in, write rich-text posts with a featured image, and edit or delete their own posts.
 
-**Live demo:** https://your-app.vercel.app
+**Live demo:** https://appwrite-blog-omega-sable.vercel.app/
 
 ## Features
 
